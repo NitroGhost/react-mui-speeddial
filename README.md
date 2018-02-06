@@ -11,7 +11,7 @@ beneath the action buttons.
 ## Installation
 
 ```
-npm i --save react-mui-speeddial
+npm i --save material-ui-speeddial
 ```
 
 ## Demo
